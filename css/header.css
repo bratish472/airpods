@@ -1,0 +1,40 @@
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lin-item {
+    display: flex;
+    align-items: center;
+}
+
+.vse {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.menu{
+    font-family: 'MB', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.links {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-right: 30px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
