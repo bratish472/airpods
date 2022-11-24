@@ -1,0 +1,39 @@
+
+
+
+.banner-h {
+
+    font-family: 'PO', sans-serif;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 75px;
+    text-align: center;
+    margin-bottom: 51px;
+    padding: 204px 0 0 0;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-banner {
+    color: black;
+    font-family: 'MM';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    background: white;
+    border-radius: 10px;
+    padding: 13px 11px;
+    transition: 0.03s;
+}
+.btn-banner:hover{
+    color: white;
+    background: black;
+}
+.banner{
+    background: url(../img/2\ qloq.png) no-repeat top center/cover;
+    height: 100vh;
+}

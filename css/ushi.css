@@ -1,0 +1,19 @@
+.ushi-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.u-p {
+    font-family: 'MM';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 27px;
+}
+.uxa{
+    display: flex;
+    align-items: center;
+    width: 538px;
+    height: 135px;
+}

@@ -1,0 +1,17 @@
+.case-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 87px;
+}
+
+.c-p {
+    display: flex;
+    align-items: center;
+    width: 540px;
+    height: 107px;
+    font-family: 'MM', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 27px;
+}
